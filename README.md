@@ -6,7 +6,7 @@ If you don't know how to load programs to Arduino using Atmel Studio, please see
 - http://www.instructables.com/id/How-to-Load-Programs-to-an-Arduino-UNO-From-Atmel-/
 - https://www.embarcados.com.br/atmel-studio/
 
-If you're curious about why do I need Atmel Studio to program Arduino boards and why don't using Arduino IDE, this <a href="https://www.youtube.com/watch?v=648Tx5N9Zoc" >link</a> shows one simple example.
+If you're curious about why do I need Atmel Studio to program Arduino boards and why don't use Arduino IDE, this <a href="https://www.youtube.com/watch?v=648Tx5N9Zoc" >link</a> shows one simple example.
 
 Mauricio Donatti</br>
 mauricio.donatti@lnls.br</br>
